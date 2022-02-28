@@ -466,9 +466,11 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     dpmserviceapp \
     ims \
+    WfdService \
     qcrilmsgtunnel \
     tcmclient \
     audiosphere \
+    WfdCommon \
     com.android.hotwordenrollment.common.util \
     com.qti.dpmframework \
     dpmapi \
